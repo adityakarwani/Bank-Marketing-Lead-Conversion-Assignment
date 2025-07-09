@@ -14,9 +14,9 @@
 
 ### Model Performance
 - **Logistic Regression (Baseline):**
-  - Accuracy: 0.89, AUC-ROC: 0.78, F1: 0.39
+  - Accuracy: 0.90, AUC-ROC: 0.90, F1: 0.45
 - **Random Forest with SMOTE (Improved):**
-  - Accuracy: 0.90, AUC-ROC: 0.93, F1: 0.47
+  - Accuracy: 0.90, AUC-ROC: 0.92, F1: 0.59
 
 ### What Worked
 - Addressing class imbalance with SMOTE improved recall of positive cases
